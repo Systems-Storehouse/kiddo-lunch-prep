@@ -20,7 +20,7 @@ Every weekend, we create a plan for the following three meals/snacks every day. 
    - Make a call about what non frozen options you are willing to make that week.
  - Present the options to the preschooler and write out the full week of choices.
    - We write out choices for three packed lunch pieces for the whole week.  All items are rotated and we don't do the same combo twice.
-   - Here is what our menu looks like.  We like having it written out and talking about the food as we pack it each morning to hype it up.
+   - [Here](https://user-images.githubusercontent.com/46985575/131226213-7741d2f3-fc3a-4332-afee-320612ae09da.jpeg) is what our menu looks like.  We like having it written out and talking about the food as we pack it each morning to hype it up.
  - Bake and Roast
    - You already chose what to bake.  When it's cooled, freeze what is not being used for the week.
    - Roast a week's worth of veggies.
