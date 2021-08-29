@@ -1,7 +1,7 @@
-*I have a compulsion for making efficent systems for anything I need to do at some regular cadence.  My system for kiddo lunch prep has come up in a few conversations lately and I promised I'd write it out.  Well here you go, my lunch prep routine, complete with links to specific recipes and my overall [guiding principles](guiding-principles.md).  Yup, the documentation is overkill, but it was really interesting to highlight a labor of love that so many parents take on but are not recognized for.  It's both a display of my systems passion and a means to an end to keep the family lights on efficently without compromising on what is important to us.  Hope it's helpful to someone.  Happy to hear any feedback.  -Lizzy*
+*I have a compulsion for making efficient systems for anything I need to do at some regular cadence.  My system for kiddo lunch prep has come up in a few conversations lately and I promised I'd write it out.  Well here you go, my lunch prep routine, complete with links to specific recipes and my overall [guiding principles](guiding-principles.md).  Yup, the documentation is overkill, but it was really interesting to highlight a labor of love that so many parents take on but are not recognized for.  It's both a display of my systems passion and a means to an end to keep the family lights on efficiently without compromising on what is important to us.  Hope it's helpful to someone.  Happy to hear any feedback.  -Lizzy*
 
 ## On Saturdays, we meal prep
-Well, actually, on Saturdays, we do several routines that help set us up for success for the next work/school week.  One of those routines is meal planning with a preschooler. :scream:  It's been really sucessful now that we have iterated a bit on where we set boundaries and where we allow for choice.
+Well, actually, on Saturdays, we do several routines that help set us up for success for the next work/school week.  One of those routines is meal planning with a preschooler. :scream:  It's been really successful now that we have iterated a bit on where we set boundaries and where we allow for choice.
 
 ## Our General Packed Lunch Formula
 Every weekend, we create a plan for the following three meals/snacks every day.  The formula creates enough predictability and cuts down on decision fatigue.  The rotations help add enough variety so that we don't get into a rut and burn out on the favorites.
@@ -10,7 +10,7 @@ Every weekend, we create a plan for the following three meals/snacks every day. 
 | ----------- | ----------- |
 | Morning Snack | [Fruit & Nuts Rotation](fruit-nut.md) | 
 | Lunch | [1/2 Main Entree](main-entree.md), [1/2 Veggie Rotation](veggies.md)  |
-| Afternoon Snack | [Something we have baked or a hearty premade snack](afternoon-snack.md) |
+| Afternoon Snack | [Something we have baked or a hearty pre-made snack](afternoon-snack.md) |
 
 ## The routine in a nutshell:
 
