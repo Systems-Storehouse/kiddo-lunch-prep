@@ -4,7 +4,7 @@
 ## Some of our typical Fruit & Nut options 
  
 ### Fruits
-We bias towards whatever fruit is fresh and in season, but we also try to have some dried fruit at home as backups or to add variety (also use these for baking).  I'll link to the dried varieties we really below.
+We bias towards whatever fruit is fresh and in season, but we also try to have some dried fruit at home as backups or to add variety (also use these for baking).  I'll link to the dried varieties we really like below.
 
  - Grapes
  - [Strawberries](https://www.amazon.com/gp/product/B08TYCZ9K8/ref=ox_sc_act_title_1?smid=A3PRB6SG632J4Y&psc=1)
