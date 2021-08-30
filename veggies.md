@@ -9,10 +9,11 @@
 - Preheat oven to 450
 - Wash & cut up all veggies and place on sheet pans, with sweet potatoes on a separate pan.
 - Drizzle a some but not a ton of olive oil
-- Pick yours spices and add to the veggies
+- Pick your spices and add to the veggies
   - Current favorite is [this mix](https://www.penzeys.com/online-catalog/chip-dip-seasoning/c-24/p-564/pd-s)
-- Check on veggies.  Broccoli & cauliflour will need to come out before the sweet potatoes.
+  - Also can't go wrong with some garlic salt and onion powder
+- Check on veggies after 20 minutes.  Broccoli & cauliflour will need to come out before the sweet potatoes.  Sweet potatoes can take around 40 min depending on the piece size.
 
-#### Container we use
+### Container we use
 Veggies take up one side of this container
  [![](https://m.media-amazon.com/images/I/81T0mcLNIzL._AC_SL1500_.jpg)](https://www.amazon.com/gp/product/B00NSJ88V8/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
