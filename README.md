@@ -26,5 +26,5 @@ Every weekend, we create a plan for the following three meals/snacks every day. 
     - Roast a week's worth of veggies. Basic recipe [here](veggies.md).
     - Remember, this is supposed to be a fun activity that involves the kid.  It isn't always fun, but it's important to try and keep an open mind and balance getting the task done with making it fun.
  4. Between the frozen supply and newly baked food, you should have most of the food you need to create all the lunches you need for the week.
-    - There is some food you might want to make later in the week (see this section) but this should be a small portion of the overall set of food.
+    - There is some food you might want to make later in the week (see [this section](main-entree.md#make-ahead-week-of)) but this should be a small portion of the overall set of food.
     - [Here](https://user-images.githubusercontent.com/46985575/131264829-36736b29-1f52-43fc-a17f-8e78f19da751.jpg) is what a week looked like almost all packed.  The last two lunches will be packed later in the week as we cook those meals.
