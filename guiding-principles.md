@@ -7,7 +7,7 @@
    - It's nice to offload some of the decision making, now that we have created a boundary.
 #### Our child has to help in the making of some of their lunch foods
    - Partially, we know that if the kid is involved in the process, he is more likely to eat the food that is packed.
-   - Additionally, we think it's important to deliberatly teach our kid how to cook.  We are in the kitchen a ton, making food both strictly from recipes and sort of "pull things out of the fridge and figure out some combination that will not be too gross."  Our kitchen helper is probably the most valued piece of kid gear we have recieved because he has been part of the action since 11 months.
+   - Additionally, we think it's important to deliberatly teach our kid how to cook.  We are in the kitchen a ton, making food both strictly from recipes and sort of "pull things out of the fridge and figure out some combination that will not be too gross."  Our [kitchen helper](https://www.amazon.com/gp/product/B00FBLADKU/ref=ewc_pr_img_1?smid=A1YCDQJPFNZRAY&psc=1) is probably the most valued piece of kid gear we have recieved because he has been able to be part of the action since 11 months.
 #### The food we offer for lunches is both varied and nutritious
    - We want to encourage trying new foods and being flexible about what is available to eat.
    - Cooking our own stuff often gives us plenty of opportunity to throw in nutrient-dense ingredients and adapting foods with ingredients we know our kid is into at the moment.
